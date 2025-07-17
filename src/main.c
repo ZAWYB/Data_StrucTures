@@ -16,5 +16,5 @@
 
 
 
-//link list
+//link list 动态
 
